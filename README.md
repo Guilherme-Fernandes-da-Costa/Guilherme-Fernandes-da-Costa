@@ -10,7 +10,6 @@ Currently working as a **Software Engineering Intern at Banco Daycoval** and con
 
 - 💼 Internship @ **Banco Daycoval** — APIs with ASP.NET & Angular, Agile workflows
 - 🔬 Research (PUB/USP) — designing *IDLE-SAVE smart governors* for OS energy management in cloud VMs
-- 🔬 Research (PIBIC/CNPq) — Process Mining with the **X-Processes** technique
 - 🌱 Learning: **ML, Cloud, ASP.NET, Docker/Kubernetes**
 - 💬 Ask me about: Java, SQL, and Coffee
 - 📫 Reach me: **guifends@gmail.com**
