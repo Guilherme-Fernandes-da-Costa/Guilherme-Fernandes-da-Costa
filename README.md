@@ -33,8 +33,9 @@ Currently working as a **Software Engineering Intern at Banco Daycoval** and con
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme-Fernandes-da-Costa&theme=default)
 
+<!-- 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-Fernandes-da-Costa&theme=minimal)
-
+-->
 </div>
 
 ---
