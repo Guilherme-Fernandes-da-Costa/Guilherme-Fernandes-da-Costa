@@ -27,9 +27,10 @@ Currently working as a **Software Engineering Intern at Banco Daycoval** and con
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Fernandes-da-Costa&show_icons=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Fernandes-da-Costa&layout=compact&theme=default)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Fernandes-da-Costa&show_icons=true&count_private=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Fernandes-da-Costa&layout=compact&theme=default" />
+</div>
 
 <!-- 
 
