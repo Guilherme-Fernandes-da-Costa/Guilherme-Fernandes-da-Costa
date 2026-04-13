@@ -39,14 +39,13 @@ Currently working as a **Software Engineering Intern at Banco Daycoval** and con
 
 ---
 
-### 📌 Featured Repositories
+### 📌   Main Featured Repositories
 
 | Repository | Description | Language |
 |---|---|---|
 | [Undergraduate-Projecties](https://github.com/Guilherme-Fernandes-da-Costa/Undergraduate-Projecties) | Coursework and projects from USP | C |
 | [X-Processes](https://github.com/Guilherme-Fernandes-da-Costa/X-Processes) | Process Mining research — PIBIC/CNPq | Python |
 | [Banco-de-Dados](https://github.com/Guilherme-Fernandes-da-Costa/Banco-de-Dados) | Database I coursework at USP | SQL/CSS |
-| [Minicurso_Microcontroladores_USP](https://github.com/Guilherme-Fernandes-da-Costa/Minicurso_Microcontroladores_USP) | Microcontrollers mini-course material | — |
 
 ---
 
