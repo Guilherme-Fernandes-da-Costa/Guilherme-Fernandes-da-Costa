@@ -24,30 +24,9 @@ Currently working as a **Software Engineering Intern at Banco Daycoval** and con
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-  <div align="center">
-    <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
-  </div>
-
-<!--
-![Summary Cards](https://vercel.app)
-![GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
-
- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Fernandes-da-Costa&show_icons=true&count_private=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Fernandes-da-Costa&layout=compact&theme=default" />
-</div> -->
-
-<!-- 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Guilherme-Fernandes-da-Costa&theme=default)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-Fernandes-da-Costa&theme=minimal)
--->
-</div>
+![](https://github-readme-stats.shion.dev/api?username=Guilherme-Fernandes-da-Costa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Guilherme-Fernandes-da-Costa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Guilherme-Fernandes-da-Costa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
@@ -75,6 +54,3 @@ Currently working as a **Software Engineering Intern at Banco Daycoval** and con
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Guilherme-Fernandes-da-Costa&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Guilherme-Fernandes-da-Costa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Guilherme-Fernandes-da-Costa&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
