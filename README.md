@@ -2,7 +2,7 @@
 
 I'm an undergraduate student in **Information Systems at USP** (Universidade de São Paulo), passionate about software engineering, research, and building things that matter.
 
-Currently working as a **Software Engineering Intern at Banco Daycoval** and conducting scientific research in Operating Systems at USP. I love birds, coffee, and learning everything tech has to offer 🐦☕
+Currently I'm open for work and now I'm conducting scientific research in Operating Systems at USP.
 
 ---
 
@@ -13,7 +13,7 @@ Currently working as a **Software Engineering Intern at Banco Daycoval** and con
 - 🌱 Learning: **ML, Cloud, ASP.NET, Docker/Kubernetes**
 - 💬 Ask me about: Java, SQL, and Coffee
 - 📫 Reach me: **guifends@gmail.com**
-- ⚡ Fun fact: I love birds!
+- ⚡ Fun fact: I love birds 🐦!
 
 ---
 
