@@ -47,10 +47,3 @@ Currently working as a **Software Engineering Intern at Banco Daycoval** and con
 [![GitHub](https://img.shields.io/badge/GitHub-Guilherme--Fernandes--da--Costa-181717?style=flat&logo=github&logoColor=white)](https://github.com/Guilherme-Fernandes-da-Costa)
 
 📍 São Paulo, SP, Brazil
-
-
-# 💫 About Me:
-🔭 I'm currently working as a Student-Reasearcher at USP (powered by PUB scholarship)<br>👯 I'm looking to collaborate on FinTechs, Bankings and OS's <br>🤝 I'm looking for help with Python, Java and Docker<br>🌱 I'm current learning about DevSecOps and ML<br>💬 Ask me about Data Structures, and Coffe<br>⚡ I love birds
-
-
-# 📊 GitHub Stats:
